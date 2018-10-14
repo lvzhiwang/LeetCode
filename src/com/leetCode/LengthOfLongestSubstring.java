@@ -7,6 +7,6 @@ public class LengthOfLongestSubstring {
 		System.out.println("============begin this is leetCode ================");
 		System.out.println("============end this is leetCode ================");
 		System.out.println("============begin this is leetCode ================");
-		System.out.println("============end this is leetCode ================");
+
 	}
 }
