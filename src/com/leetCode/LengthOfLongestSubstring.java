@@ -12,7 +12,7 @@ public class LengthOfLongestSubstring {
 	}
 
 
-	function void a(){
+	function void a(String aasd){
 
 	}
 }
