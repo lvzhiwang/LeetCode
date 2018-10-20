@@ -10,5 +10,9 @@ public class LengthOfLongestSubstring {
 		System.out.println("============end this is leetCode ================2");
 		System.out.println("============Add  ================2");
 		System.out.println("============commit 1 ================2");
+		System.out.println("============commit 2 ================2");
+		System.out.println("============commit 3 ================2");
+		System.out.println("============commit 34 ================2");
+		System.out.println("============commit 34 ================3434amend");
 	}
 }
